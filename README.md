@@ -3,6 +3,8 @@
 ## Project Overview
 An end-to-end ETL pipeline built using Python that extracts product and user data from the Fake Store API, transforms the data using Pandas, and loads it into a PostgreSQL database.
 
+FAKE STORE API url: https://fakestoreapi.com/
+
 ## Architecture
 
 Extract → Transform → Load
